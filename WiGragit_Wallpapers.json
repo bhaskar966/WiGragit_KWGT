@@ -1,1 +1,212 @@
-
+[
+	{
+		"name": "Abstrct Colors",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Abstract_Four.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Abstract_Four.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Amoled Abstrct",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Abstract_Three.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Abstract_Three.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Abstrct Gradient",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Abstract_Two.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Abstract_Two.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Abstrct Puzzel",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Abstract_one.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Abstract_one.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Air Plane",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Air-plane.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Air-plane.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Air Plane in Forest",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Airplane_inForest.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Airplane_inForest.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Alomed Flower",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/AmoledFlower.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/AmoledFlower.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Leaves in Dark",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Amoled_Leafs.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Amoled_Leafs.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Astronaut",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Astronaut.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Astronaut.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Books",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Books.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Books.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Chameleon Amoled",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Chameleon_Amoled.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Chameleon_Amoled.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Gray Water",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/DarkWater.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/DarkWater.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Forest Flowers",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Forest_Flowers.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Forest_Flowers.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Lady on Road",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Girl_on_Road.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Girl_on_Road.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "The view",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Girl_on_rock.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Girl_on_rock.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Light Station",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/LightStatition.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/LightStatition.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Merry go Round",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Merry-go-round.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Merry-go-round.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Minimal Camera",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Minimal_Camera.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Minimal_Camera.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Moon Forest",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Moon_Forest.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Moon_Forest.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Dusk hill Station",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Pinkish_hills.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Pinkish_hills.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Night Sky",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Purple_gradient_NightSky.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Purple_gradient_NightSky.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Dark Water",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Sea_DarkWater.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Sea_DarkWater.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Shaped",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Shaped_Building.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Shaped_Building.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Sun Flower",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Sunflower.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Sunflower.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Sun Set",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Sunset.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Sunset.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Pole",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Tower_skybg.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Tower_skybg.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Trigo",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Trigo_Building.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Trigo_Building.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Desert",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/desert.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/desert.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Hill View",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/hillView.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/hillView.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Hay You",
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/man_Cultivated_land.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/man_Cultivated_land.jpg",
+		"downloadable": true
+	}
+]
