@@ -1,5 +1,47 @@
 [
 	{
+		"name": "Pastel 1",
+		"author": "Bhaskar",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Hand%20Made%20Pastel%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Hand%20Made%20Pastel%201.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Pastel 2",
+		"author": "Bhaskar",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Hand%20Made%20Paster%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Hand%20Made%20Paster%202.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Pastel 3",
+		"author": "Bhaskar",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Hand%20Made%20Paster%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Hand%20Made%20Paster%203.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Pastel 4",
+		"author": "Bhaskar",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Hand%20Made%20Paster%204.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Hand%20Made%20Paster%204.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Niagara 1",
+		"author": "Bhaskar",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Niagara%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Niagara%201.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Niagara 2",
+		"author": "Bhaskar",
+		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Niagara%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Thumb/Niagara%202.jpg",
+		"downloadable": true
+	},
+	{
 		"name": "Abstrct Colors",
 		"author": "Unsplash",
 		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Abstract_Four.jpg",
